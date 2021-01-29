@@ -28,3 +28,18 @@ Maybe not optimal Code, but works
 ### Output
 
 -> [Jupyter NoteBook](liveProject_Time_Series_Submission_Two.ipynb)
+
+
+
+## ChapterThree
+
+### Tasks
+_go to portal for the tasks, and more details_
+
+### Notes
+Not finished,.... 
+
+### Output
+
+-> [Jupyter NoteBook](liveProject_Time_Series_Submission_Three.ipynb)
+
